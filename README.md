@@ -42,7 +42,7 @@ Siguiente links:
 Es el deseño de la tabla con los seguimientos de pagina.
 
 
-[heroku](https://git.heroku.com/sleepy-caverns-10926.git)
+[heroku](https://sleepy-caverns-10926.herokuapp.com/)
 
 
 ![alt text][logic]
