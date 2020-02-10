@@ -30,9 +30,9 @@ Atributos:image item, ubicacion, valor,usuario.
 El diagra conceptual mostra las principais entidades que trabajas la aplicacion.
 
 
-![alt text][logic]
+![alt text][concepto]
 
-[logic]: /concepto_diagram.png
+[concepto]: ./concepto_diagram.png
 
 
 Siguiente links:
@@ -47,6 +47,6 @@ Es el deseño de la tabla con los seguimientos de pagina.
 
 ![alt text][logic]
 
-[logic]: /logic_diagram.png
+[logic]: ./logic_diagram.png
 
 #Passos para llevar el projecto
