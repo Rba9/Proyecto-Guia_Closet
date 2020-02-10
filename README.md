@@ -32,7 +32,7 @@ El diagra conceptual mostra las principais entidades que trabajas la aplicacion.
 
 ![alt text][concepto]
 
-[concepto]: ./concepto_diagram.png
+[concepto]: ./conceptual_diagram.png
 
 
 Siguiente links:
